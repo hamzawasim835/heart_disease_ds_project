@@ -1,3 +1,4 @@
 # From loading we know we have 303 rows
 # From info we know all the columns correspond to 303 non-null rows, except for Thal, which only corresponds to 301. 
 So odds are the 2 items of data that need cleanup per the info I have can probably by located using this property.
+# Using null masking, I am able to locate the Thal nulls, at rows

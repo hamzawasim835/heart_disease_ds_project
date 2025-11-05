@@ -30,3 +30,11 @@ So odds are the 2 items of data that need cleanup per the info I have can probab
 
 # MaxHR dealt with
 
+# ExAng is a binary, no outliers.
+
+# I don't understand what Oldpeak is, but too much of it apparently indicates compromised 
+Blood Supply to the heart
+
+# Oldpeak outliers handled
+
+# No outliers in slope

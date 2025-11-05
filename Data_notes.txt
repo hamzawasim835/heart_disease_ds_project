@@ -22,7 +22,7 @@ So odds are the 2 items of data that need cleanup per the info I have can probab
     4. Filter data frame using boolean indexing to locate outliers
     5. print them to confirm visually as a second form of confirmation
     6. Replace them with the median
-    7. Check boxplot again to ensure removal went without any unexpected issues
+    7. Check boxplot again to ensure removal went ahead without any unexpected issues
 
 # Cholestrol done
 
@@ -38,3 +38,24 @@ Blood Supply to the heart
 # Oldpeak outliers handled
 
 # No outliers in slope
+
+# Ca outliers cleaned up
+
+# Thal is a blood disease
+
+# Medical background:
+    1. Obviously, older people are at higher risk of heart disease.
+    2. Higher cholesterol and higher Blood pressure are big causes of heart disease.
+    3. Anginal chest pain may indicate coronary heart disease
+    4. nonanginal pain is, by definition, not cardiac-related
+    5. ExAng may indicate Coronary heart disease
+    6. Both typical and Atypical chest pain could potentially indicate cardio or pulmonary issues
+    7. Lower-than-age-average heart rate under a stress test may indicate further cardiac issues
+    8. Men tend to develop heart disease earlier than women, due to hormonal differences
+    9. Men also have a generally higher risk of heart disease
+
+# For now at least, I will focus on the relationship between age, sex, and heart disease.
+
+
+
+

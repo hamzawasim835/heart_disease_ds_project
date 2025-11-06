@@ -64,7 +64,15 @@ Blood Supply to the heart
 
 # OBSERVATION 2: While sick people were older than the average person(56), men got sick earlier than women (58 to 60 years).
 
+# Sex Is obviously a big factor
 
+# OBSERVATION 3: Sick people have a higher cholestrol than the median person, 249 to 242
+
+# OBSERVATION 4: Surprisingly, RestBP was not as much of a factor: the average blood pressure of a sick person was the 
+same as the overall median, as well as that of Healthy people
+
+# Observation 5: Sick people tends to have lower median maximum heart rate than healthy
+# People, also lower than median (161 healthy, 142.5 sick, 153 median)
 
 
 

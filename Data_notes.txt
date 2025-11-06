@@ -74,5 +74,9 @@ same as the overall median, as well as that of Healthy people
 # Observation 5: Sick people tends to have lower median maximum heart rate than healthy
 # People, also lower than median (161 healthy, 142.5 sick, 153 median)
 
+# Blood pressure doesn't seem to be much affected by sex
+# As for cholesterol, women seem to have a higher median than men
+# 
+
 
 

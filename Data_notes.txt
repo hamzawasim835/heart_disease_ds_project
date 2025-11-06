@@ -56,6 +56,15 @@ Blood Supply to the heart
 
 # For now at least, I will focus on the relationship between age, sex, and heart disease.
 
+# 205 men to 96 women
+
+# 163 healthy people to 138 sick people
+
+# OBSERVATION 1: Most Sick people are Men, 113 to 25. So 81.88% are men
+
+# OBSERVATION 2: While sick people were older than the average person(56), men got sick earlier than women (58 to 60 years).
+
+
 
 
 

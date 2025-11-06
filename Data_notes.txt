@@ -75,8 +75,13 @@ same as the overall median, as well as that of Healthy people
 # People, also lower than median (161 healthy, 142.5 sick, 153 median)
 
 # Blood pressure doesn't seem to be much affected by sex
+
 # As for cholesterol, women seem to have a higher median than men
-# 
+
+# MaxHR seems to go down with age, which makes sense, given it's correlated with heart disease and heart disease is also 
+correlated with age
+
+# Apparently the factor most correlated with heart disease is ExAng (0.43), Then Oldpeak (0.42), per the heatmap.
 
 
 

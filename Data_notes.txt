@@ -83,5 +83,5 @@ correlated with age
 
 # Apparently the factor most correlated with heart disease is ExAng (0.43), Then Oldpeak (0.42), per the heatmap.
 
-
+# Label encoding represents data with unique number, which honestly seems suboptimal for this particular project.
 

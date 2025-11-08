@@ -83,5 +83,10 @@ correlated with age
 
 # Apparently the factor most correlated with heart disease is ExAng (0.43), Then Oldpeak (0.42), per the heatmap.
 
+# So I have 2 categorical columns to handle: ChestPain and Thal
+
+# There are 3 categories in Thal: fixed, normal, and reversible, and 4 in ChestPain: Typical, nontypical, asymptomatic and nonanginal.
+
+
 
 

@@ -90,3 +90,5 @@ correlated with age
 
 # When scaling, ALWAYS fit the scaler to the training data, then transform both the training and test data (We're talking 
 about the Xs of course, the Ys are not to be touched).
+
+# To run predictions using the model, you literally just run .predict(x_test).

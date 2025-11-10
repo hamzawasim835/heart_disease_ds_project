@@ -85,3 +85,8 @@ correlated with age
 
 # Label encoding represents data with unique number, which honestly seems suboptimal for this particular project.
 
+# Linear models need scaled data. Tree models don't, but they're not affected by scaling the data. So, for efficiency's sake
+, it makes sense to just scale one data set and use it for both.
+
+# When scaling, ALWAYS fit the scaler to the training data, then transform both the training and test data (We're talking 
+about the Xs of course, the Ys are not to be touched).

@@ -87,6 +87,13 @@ correlated with age
 
 # There are 3 categories in Thal: fixed, normal, and reversible, and 4 in ChestPain: Typical, nontypical, asymptomatic and nonanginal.
 
+# Currently at scaling.
+
+# I will exclude my Sex, Fbs, RestECG, ExAng, Slope, and Ca since the variance in them is low enough that the risk of them
+dominating or skewing the model is very low, per gemini.
+
+
+
 
 
 

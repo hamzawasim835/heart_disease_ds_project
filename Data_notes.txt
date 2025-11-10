@@ -92,8 +92,8 @@ correlated with age
 # I will exclude my Sex, Fbs, RestECG, ExAng, Slope, and Ca since the variance in them is low enough that the risk of them
 dominating or skewing the model is very low, per gemini.
 
-
-
+# Now for training the model, you import it, then initialize it, then fit it with training x and y data.
+Just like that, the model is trained. The tuning is where the real work is.
 
 
 

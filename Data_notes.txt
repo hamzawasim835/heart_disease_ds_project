@@ -92,3 +92,5 @@ correlated with age
 about the Xs of course, the Ys are not to be touched).
 
 # To run predictions using the model, you literally just run .predict(x_test).
+
+# Done with decission tree for label encoded data.

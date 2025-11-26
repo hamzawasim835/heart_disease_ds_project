@@ -100,3 +100,9 @@ about the Xs of course, the Ys are not to be touched).
 # Trained Random Forest model
 
 # The accuracy difference between 10 and 100 is roughly 2%, but between 100 and 1000 is roughly 1%. So diminishing returns.
+
+# For Recall, the best 2 were Logistic Regression and Random forest, although RF outperformed LR.
+
+# For Confusion matrix, the best 2 were these guys again, but RF also outperformed LR.
+
+# Highest AUC score was RF (0.8845), followed by SVM (0.8649), LR (0.8627), and lastly DT(0.7304)

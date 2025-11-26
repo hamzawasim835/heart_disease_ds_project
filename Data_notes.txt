@@ -99,3 +99,7 @@ Just like that, the model is trained. The tuning is where the real work is.
 
 # SVM trained, accuracy at a respectable 80%
 
+# Random forest at 1000 is 83.6%, 10000 is also 83.6%.
+# 10 is 80.33%, 50 is 81.97%, 100 is 81.97%
+# 1 is 68.85%, 5 is 80.33%
+# We hit diminishing returns pretty quick with that one.

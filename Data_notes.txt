@@ -96,3 +96,7 @@ about the Xs of course, the Ys are not to be touched).
 # Done with decission tree for label encoded data.
 
 # Trained SVM Model
+
+# Trained Random Forest model
+
+# The accuracy difference between 10 and 100 is roughly 2%, but between 100 and 1000 is roughly 1%. So diminishing returns.

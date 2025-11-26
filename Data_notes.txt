@@ -97,3 +97,5 @@ Just like that, the model is trained. The tuning is where the real work is.
 
 # trained decission tree model
 
+# SVM trained, accuracy at a respectable 80%
+

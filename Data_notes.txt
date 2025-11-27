@@ -103,3 +103,8 @@ Just like that, the model is trained. The tuning is where the real work is.
 # 10 is 80.33%, 50 is 81.97%, 100 is 81.97%
 # 1 is 68.85%, 5 is 80.33%
 # We hit diminishing returns pretty quick with that one.
+
+# LR and RF have the 2 highest positive recall, but the average numbers are much lower than for label-encoded data.
+# When using confusion matrices, LR and RF again have the lowest number of false negatives and highest number of false positives. Both were equal in said matrix though.
+# For AUC/ROC: RF, SVM, LR, then DT.
+# Decision trees are decidedly out of contention. 
